@@ -58,7 +58,7 @@
             // outputLabel
             // 
             this.outputLabel.BackColor = System.Drawing.Color.DimGray;
-            this.outputLabel.Font = new System.Drawing.Font("Rockwell", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.outputLabel.Font = new System.Drawing.Font("Rockwell", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputLabel.ForeColor = System.Drawing.Color.White;
             this.outputLabel.Location = new System.Drawing.Point(104, 236);
             this.outputLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
